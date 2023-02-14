@@ -16,8 +16,8 @@ https://karsodhi.github.io/03-Javascript-Password-Generator-Homework/
 
 
 # Screenshots 
-![The password generator creates a password between the length of 8 to 128 characters and includes lower case letters, upper case letters, special characters, and numbers.](./assets/images/03-javascript-homework-demo.png)
+![The password generator creates a password between the length of 8 to 128 characters and includes lower case letters, upper case letters, special characters, and numbers.](./Assets/images/03-javascript-homework-demo.png)
 
-![Password Generator](./assets/images/password.jpg)
+![Password Generator](./Assets/images/password.jpg)
 
-![Another picture](./assets/images/generator.jpg)
+![Another picture](./Assets/images/generator.jpg)
